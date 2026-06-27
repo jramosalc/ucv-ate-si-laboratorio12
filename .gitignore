@@ -1,0 +1,26 @@
+# Bytecode y cachés de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+.env
+
+# Coverage / pytest
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+
+# Sonar
+.scannerwork/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
