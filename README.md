@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UCV - Laboratorio Perceptrón Simple
 
 ## 🎯 Objetivo
@@ -71,3 +72,7 @@ Resultados disponibles en: `https://sonarcloud.io/project/overview?id=jramosalc_
 
 ## ✍️ Autor
 jramosalc — UCV
+=======
+# ucv-ate-si-laboratorio12
+Implementar desde cero un perceptrón simple para resolver un problema de aprobación de créditos y comprender el aprendizaje de una neurona artificial.
+>>>>>>> 2b0af883c2c34a0c7e8357ede04dac0b37133223
